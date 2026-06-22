@@ -99,18 +99,23 @@ Business Insights Derived
 📌 Product Insights
 Premium smartphone models contributed the highest revenue.
 A small number of models generated a significant share of total sales.
+
 📌 Geographic Insights
 Metro cities showed stronger sales performance than smaller markets.
 Regional analysis helps prioritize expansion opportunities.
+
 📌 Customer Insights
 Customers aged 25–45 contributed the majority of revenue.
 Higher-rated customer experiences correlated with stronger sales performance.
+
 📌 Payment Insights
 Digital payment methods accounted for most transactions.
 UPI emerged as a dominant payment channel.
+
 📌 Operational Insights
 Sales trends revealed specific high-demand periods.
 Business can use these insights for inventory planning and promotional campaigns.
+
 Technical Skills Demonstrated
 Data Preparation
 Data Cleaning
