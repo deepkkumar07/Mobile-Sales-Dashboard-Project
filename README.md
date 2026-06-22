@@ -139,4 +139,6 @@ Interactive Data Visualization
 Project Outcome
 
 The dashboard provides management with a single source of truth for mobile sales performance, reducing reporting effort and enabling faster, data-driven decision-making. It transforms raw transactional data into actionable business insights through intuitive and interactive visualizations.
-Screenshot:
+
+
+Screenshot: https://github.com/deepkkumar07/Mobile-Sales-Dashboard-Project/blob/main/Mobile%20Sales%20Dashboard.png
